@@ -2,35 +2,8 @@
   "name": "teletype-server",
   "scripts": {},
   "env": {
-    "BOOMTOWN_SECRET": {
-      "required": true
-    },
-    "GITHUB_CLIENT_ID": {
-      "required": true
-    },
-    "GITHUB_CLIENT_SECRET": {
-      "required": true
-    },
     "HASH_SECRET": {
-      "required": true
-    },
-    "PAPERTRAIL_API_TOKEN": {
-      "required": true
-    },
-    "PUSHER_APP_ID": {
-      "required": true
-    },
-    "PUSHER_KEY": {
-      "required": true
-    },
-    "PUSHER_SECRET": {
-      "required": true
-    },
-    "TWILIO_ACCOUNT": {
-      "required": true
-    },
-    "TWILIO_AUTH_TOKEN": {
-      "required": true
+      "required": false
     }
   },
   "formation": {},

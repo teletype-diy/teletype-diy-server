@@ -21,7 +21,6 @@
     "express": "^4.15.5",
     "node-pg-migrate": "^2.25.0",
     "pg-promise": "^11.5.4",
-    "pusher": "^2.0.1",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
     "server-destroy": "^1.0.1",
