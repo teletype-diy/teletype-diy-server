@@ -1,5 +1,5 @@
 {
-  "name": "@dfhq/teletype-server",
+  "name": "teletype-diy/teletype-diy-server",
   "version": "0.18.2",
   "engines": {
     "node": "7.10.1",

@@ -1,5 +1,5 @@
 {
-  "name": "teletype-server",
+  "name": "teletype-diy-server",
   "scripts": {},
   "env": {
     "HASH_SECRET": {
