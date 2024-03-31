@@ -1,4 +1,7 @@
- # teletype-diy-server
+NOTICE: deprecated, please look at https://github.com/teletype-diy/signal-server instead 
+ 
+ 
+# teletype-diy-server
 
 The server-side application that facilitates peer discovery for collaborative editing sessions in [teletype-diy](https://github.com/schadomi7/teletype-diy).
 
